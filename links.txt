@@ -1,0 +1,10 @@
+1: https://real-choice-265322.framer.app/
+2: https://real-choice-265322.framer.app/./about-us
+3: https://real-choice-265322.framer.app/./agenda
+4: https://real-choice-265322.framer.app/./speakers
+5: https://real-choice-265322.framer.app/./contact-us
+6: https://real-choice-265322.framer.app/./pricing
+7: https://real-choice-265322.framer.app/./event
+8: https://real-choice-265322.framer.app/./agenda/connect-with-peers-industry-leaders-and-potential-collaborators
+9: https://real-choice-265322.framer.app/./agenda/participate-in-hands-on-sessions-designed-to-enhance-your-skills
+10: https://real-choice-265322.framer.app/./agenda/hear-from-renowned-experts-as-they-share-their-knowledge
